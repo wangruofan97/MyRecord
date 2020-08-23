@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="record_title_hint">Enter a title for the record.</string>
+    <string name="record_title_label">Title</string>
+    <string name="record_details_label">Details</string>
+    <string name="record_solved_label">Solved</string>
+    <string name="record_title">Record Title</string>
+    <string name="record_date">Record Date</string>
+    <string name="date_picker_title">Date of record:</string>
+    <string name="new_record">New Record</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d records</string>
+</resources>
